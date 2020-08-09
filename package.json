@@ -1,0 +1,14 @@
+{
+  "name": "8bc15c30e38cf7c2",
+  "main": "8bc15c30e38cf7c2@1767.js",
+  "version": "1767.0.0",
+  "homepage": "https://observablehq.com/d/8bc15c30e38cf7c2",
+  "author": {
+    "name": "xuaokun",
+    "url": "https://observablehq.com/@xuaokun"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
